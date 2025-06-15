@@ -1,4 +1,4 @@
-# 🌸Todo App
+# 🌸ToDo App
 
 A cute, stylish, and functional todo list app built with **React**, featuring a girly aesthetic with a dark theme. Designed for anyone who loves managing their tasks in a beautiful way 💅✨
 
